@@ -1,14 +1,16 @@
 #  学习路线图
 
+首先，欢迎大家查看我们的资料库，当你踏入区块链的领域之前，不妨先看看我们给出的学习路线吧
+
 下面是登链社区给出的区块链开发者的学习路线图
 
-![1e9526375eaf48d9a2eaa3a2a68d0e99.jpeg](https://i-blog.csdnimg.cn/direct/1e9526375eaf48d9a2eaa3a2a68d0e99.jpeg)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+![1e9526375eaf48d9a2eaa3a2a68d0e99.jpeg](https://i-blog.csdnimg.cn/direct/1e9526375eaf48d9a2eaa3a2a68d0e99.jpeg)
 
 # 学习路线建议
 
 对于一个区块链方向的学习者而言，首先要了解的是区块链理论知识，当你了解了区块链的理论知识之后，下面有三个方向来学习，可以通俗的理解为区块链方向的后端，前端以及技术应用。
 
-![543506c8afc24947a771e99efe133268.png](https://i-blog.csdnimg.cn/direct/543506c8afc24947a771e99efe133268.png)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+![543506c8afc24947a771e99efe133268.png](https://i-blog.csdnimg.cn/direct/543506c8afc24947a771e99efe133268.png)!
 
 
 
