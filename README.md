@@ -10,7 +10,7 @@
 
 对于一个区块链方向的学习者而言，首先要了解的是区块链理论知识，当你了解了区块链的理论知识之后，下面有三个方向来学习，可以通俗的理解为区块链方向的后端，前端以及技术应用。
 
-![543506c8afc24947a771e99efe133268.png](https://i-blog.csdnimg.cn/direct/543506c8afc24947a771e99efe133268.png)!
+![543506c8afc24947a771e99efe133268.png](https://i-blog.csdnimg.cn/direct/543506c8afc24947a771e99efe133268.png)
 
 
 
